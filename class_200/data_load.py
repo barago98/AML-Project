@@ -3,6 +3,7 @@
 Created on Wed Dec 15 12:06:36 2021
 
 @author: debod
+reference: https://www.kaggle.com/aniket286/mobilenetv2-google-landmark-howard
 """
 
 import pandas as pd
